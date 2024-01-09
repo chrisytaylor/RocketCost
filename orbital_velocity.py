@@ -9,6 +9,7 @@
 # Launch azimuth correction for rotating Earth assumed negligible
 # !requires Python math package to function!
 
+import math
 GRAV_PARAMETER = 1.41e16
 PLANET_ROTATION = 7.2921e-5
 PLANET_RADIUS = 3440
