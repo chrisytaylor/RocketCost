@@ -2,7 +2,7 @@
 # by Chris Y. Taylor
 # calculates the orbital velocity needed to attain Earth orbits based on
 # launch latitude, orbit inclination, orbit height, and
-# eccentricity.  Could be modified for other launches from other
+# eccentricity.  Could be modified for launches from other
 # celestial bodies by changing GRAV_PARAMETER,
 # (G times planetary body mass, units are ft^3/s^2),
 # PLANET_ROTATION (radians/s), and PLANET_RADIUS (n.miles)
