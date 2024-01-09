@@ -12,8 +12,8 @@
 GRAV_PARAMETER = 1.41e16
 PLANET_ROTATION = 7.2921e-5
 PLANET_RADIUS = 3440
-RADIANS = 57.29578
 # above 3 values are currently set at Earth normal
+RADIANS = 57.29578
 bad_input = True  #not really bad yet, just nothing entered at this point
 while bad_input == True:
     perigee = float(input("What is orbital Perigee altitude in n.miles? "))
